@@ -485,9 +485,6 @@ textarea:focus {
 }
 
 @media (max-width: 900px) {
-  .hobby-card {
-    flex: 1 1 100%;
-  }
   .form-row {
     flex-direction: column;
   }
