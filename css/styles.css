@@ -488,15 +488,13 @@ textarea:focus {
   .hobby-card {
     flex: 1 1 100%;
   }
+  .form-row {
+    flex-direction: column;
+  }
 }
 
 @media (max-width: 737px) {
   .hobby-card {
-    flex-direction: column;
-  }
-}
-@media (max-width: 900px) {
-  .form-row {
     flex-direction: column;
   }
 }
